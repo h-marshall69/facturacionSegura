@@ -1,0 +1,10 @@
+{
+    "name": "greenter/firststeps",
+    "description": "Ejemplo de inicio utilizado en greenter.dev",
+    "require": {
+        "greenter/lite": "^5.0",
+        "greenter/report": "^5.0",
+        "greenter/htmltopdf": "^5.0",
+        "greenter/data": "^5.0"
+    }
+}
