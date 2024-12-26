@@ -5,6 +5,8 @@
         "greenter/lite": "^5.0",
         "greenter/report": "^5.0",
         "greenter/htmltopdf": "^5.0",
-        "greenter/data": "^5.0"
+        "greenter/data": "^5.0",
+        "mpdf/mpdf": "^6.1",
+        "greenter/greenter": "^5.1"
     }
 }
